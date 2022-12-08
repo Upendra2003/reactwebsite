@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.c59673f8.css",
+    "main.js": "/react-website/static/js/main.5da94311.js",
+    "static/media/profile.jpg": "/react-website/static/media/profile.ece2650e50f897fcbe93.jpg",
+    "static/media/man1.jfif": "/react-website/static/media/man1.b50148dd24f15c751412.jfif",
+    "static/media/food.png": "/react-website/static/media/food.8747f6b750aaea2b31ac.png",
+    "static/media/man2.jpg": "/react-website/static/media/man2.cc0a91cc1d9c7fc2fa0f.jpg",
+    "static/media/man3.jpg": "/react-website/static/media/man3.640bf54175e7a577de60.jpg",
+    "static/media/roommate.png": "/react-website/static/media/roommate.4c00adbca918d9b45891.png",
+    "static/media/logo-removebg-preview.png": "/react-website/static/media/logo-removebg-preview.0e0494c52301844c4fa8.png",
+    "static/media/student.png": "/react-website/static/media/student.380187c6abeac2d97f38.png",
+    "static/media/undraw_Done_checking_re_6vyx-removebg-preview.png": "/react-website/static/media/undraw_Done_checking_re_6vyx-removebg-preview.bb32af15da524f95ec29.png",
+    "static/media/woman.jpg": "/react-website/static/media/woman.3ec4118887ca0c4c833b.jpg",
+    "index.html": "/react-website/index.html",
+    "main.c59673f8.css.map": "/react-website/static/css/main.c59673f8.css.map",
+    "main.5da94311.js.map": "/react-website/static/js/main.5da94311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59673f8.css",
+    "static/js/main.5da94311.js"
+  ]
+}
